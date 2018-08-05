@@ -8,6 +8,14 @@
       {
         "source": "/process",
         "function": "process"
+      },
+      {
+        "source": "/pay",
+        "function": "pay"
+      },
+      {
+        "source": "/cancel",
+        "function": "cancel"
       }
     ]
   }
